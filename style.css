@@ -47,6 +47,7 @@ header  .interface  .menu-desktop ul li {
     cursor: pointer;
     display: inline-block;
     transition: .2s;
+    cursor: default;
 }
 header  .interface  .menu-desktop ul li:hover{
     color: #fff;
